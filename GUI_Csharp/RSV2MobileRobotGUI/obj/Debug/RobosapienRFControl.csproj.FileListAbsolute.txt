@@ -1,0 +1,18 @@
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.Form1.resources
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.Properties.Resources.resources
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\bin\Debug\RobosapienRFControl.exe
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\bin\Debug\RobosapienRFControl.pdb
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.exe
+C:\Documents and Settings\George\Desktop\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.pdb
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.exe
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.pdb
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\bin\Debug\RobosapienRFControl.exe
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\bin\Debug\RobosapienRFControl.pdb
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.Form1.resources
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.Properties.Resources.resources
+C:\Documents and Settings\gterzakis\Desktop\Previous Projects\Masters Project\Robosapien Code\RobosapienRFControl\RobosapienRFControl\RobosapienRFControl\obj\Debug\RobosapienRFControl.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\MSC Robotics\Masters Project\Git Project\GUI_Csharp\RobosapienRFControl\obj\Debug\RobosapienRFControl.exe
+C:\Users\George\Desktop\MSC Robotics\Masters Project\Git Project\GUI_Csharp\RobosapienRFControl\obj\Debug\RobosapienRFControl.pdb

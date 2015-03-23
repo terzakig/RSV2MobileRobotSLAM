@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RobosapienRFControl.ANN" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAABAAAAAAAAAAAAAAAABQAAACAQAgAAYAABA=</HashCode>
+      <FileName>ANN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.ANNLayer" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAABQAAACAAAgAAIAAAA=</HashCode>
+      <FileName>ANNLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.EZRoboNetDevice" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FgBCPhVEYDIaCUAKEEFAgQwKQTAgQiGGYygSwDiJkUA=</HashCode>
+      <FileName>EZRoboNetDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.Form1" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/73nRgDMCSCwm/3nFIDYwf/DOd074P/v/HYf8/93RrI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.MetaNode" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAEEDAGBCAAIAACmBKEEAAAEEDRCAACkQAgRAAYAFA=</HashCode>
+      <FileName>MetaNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.Neuron" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAQAAAAAAAAAAABQAAAAAEAgAAAAACg=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.Program" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.RoboEntity" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAggAwAAACABAAgAEAEAAIAEAgQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoboEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.RobosapienV2" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAQABgMICAScBCGAOgSIhAAYgAAkE0ACAQQMoADgI=</HashCode>
+      <FileName>RobosapienV2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.SerialBuffer" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAIAAAAAAACAAgAAAAABBAAABAAAA=</HashCode>
+      <FileName>SerialBuffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.STANN" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQUQAQABCAQgAAAAogAEIAAAAAAIBAAIAAAAAACCAA=</HashCode>
+      <FileName>STANN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobotMessenger" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAEAACAAAAAAAAAAAAAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.Properties.Resources" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RobosapienRFControl.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="RobosapienRFControl.EZFrame" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIQACAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>EZFrame.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RobosapienRFControl.EZPacket" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAQAAIAAAAAQ=</HashCode>
+      <FileName>EZPacket.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CMUCAMFrame" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEBAAAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>CMUCAMStructs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CommandMsg" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAkAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ManualCmdparams" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RSV2Sensorparams" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQACQAACAJAQAIAEAAAABACCAAAAAAEgAAAgABEAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CMUCAMLineparams" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodeIOLogEntry" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeIOLogEntryStruct.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="RobosapienRFControl.t_RSV2Ability" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wIVBxGYAKhligYAgG7KTeAyVBJPUCzFCwEJMYFQgL64=</HashCode>
+      <FileName>RobosapienV2.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RobotCmd" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEAAAAAgAAAAAAAAAAAAAIAAAAAAIAAAgAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="t_Robot" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EZRoboNetCmds.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

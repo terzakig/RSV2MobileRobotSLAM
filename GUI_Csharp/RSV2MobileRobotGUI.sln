@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E93595D6-74C4-43F3-BA49-26DCBB79587A}"
+	ProjectSection(SolutionItems) = preProject
+		RSV2MobileRobotGUI\ANN.cs = RSV2MobileRobotGUI\ANN.cs
+		RSV2MobileRobotGUI\ANNLayer.cs = RSV2MobileRobotGUI\ANNLayer.cs
+		RSV2MobileRobotGUI\APath.cs = RSV2MobileRobotGUI\APath.cs
+		RSV2MobileRobotGUI\CartMetaNetworkFSM.cs = RSV2MobileRobotGUI\CartMetaNetworkFSM.cs
+		RSV2MobileRobotGUI\CartTrainingFSM.cs = RSV2MobileRobotGUI\CartTrainingFSM.cs
+		RSV2MobileRobotGUI\ClassDiagram1.cd = RSV2MobileRobotGUI\ClassDiagram1.cd
+		RSV2MobileRobotGUI\ClassDiagram2.cd = RSV2MobileRobotGUI\ClassDiagram2.cd
+		RSV2MobileRobotGUI\CMUCAMStructs.cs = RSV2MobileRobotGUI\CMUCAMStructs.cs
+		RSV2MobileRobotGUI\EZFrame.cs = RSV2MobileRobotGUI\EZFrame.cs
+		RSV2MobileRobotGUI\EZPacket.cs = RSV2MobileRobotGUI\EZPacket.cs
+		RSV2MobileRobotGUI\EZRoboNetCmds.cs = RSV2MobileRobotGUI\EZRoboNetCmds.cs
+		RSV2MobileRobotGUI\EZRoboNetDevice.cs = RSV2MobileRobotGUI\EZRoboNetDevice.cs
+		RSV2MobileRobotGUI\EZStationPacketFSM.cs = RSV2MobileRobotGUI\EZStationPacketFSM.cs
+		RSV2MobileRobotGUI\Form1.cs = RSV2MobileRobotGUI\Form1.cs
+		RSV2MobileRobotGUI\Form1.Designer.cs = RSV2MobileRobotGUI\Form1.Designer.cs
+		RSV2MobileRobotGUI\Form1.resx = RSV2MobileRobotGUI\Form1.resx
+		RSV2MobileRobotGUI\HistogramEntry.cs = RSV2MobileRobotGUI\HistogramEntry.cs
+		RSV2MobileRobotGUI\KalmanFilter.cs = RSV2MobileRobotGUI\KalmanFilter.cs
+		RSV2MobileRobotGUI\LMMobileRobot.cs = RSV2MobileRobotGUI\LMMobileRobot.cs
+		RSV2MobileRobotGUI\MappingFSM.cs = RSV2MobileRobotGUI\MappingFSM.cs
+		RSV2MobileRobotGUI\MetaNode.cs = RSV2MobileRobotGUI\MetaNode.cs
+		RSV2MobileRobotGUI\Neuron.cs = RSV2MobileRobotGUI\Neuron.cs
+		RSV2MobileRobotGUI\NodeIOLogEntryStruct.cs = RSV2MobileRobotGUI\NodeIOLogEntryStruct.cs
+		RSV2MobileRobotGUI\Program.cs = RSV2MobileRobotGUI\Program.cs
+		RSV2MobileRobotGUI\QTableEntry.cs = RSV2MobileRobotGUI\QTableEntry.cs
+		RSV2MobileRobotGUI\RewardTableEntry.cs = RSV2MobileRobotGUI\RewardTableEntry.cs
+		RSV2MobileRobotGUI\RoboEntity.cs = RSV2MobileRobotGUI\RoboEntity.cs
+		RSV2MobileRobotGUI\RobosapienV2.cs = RSV2MobileRobotGUI\RobosapienV2.cs
+		RSV2MobileRobotGUI\RSV2BrowsingFSM.cs = RSV2MobileRobotGUI\RSV2BrowsingFSM.cs
+		RSV2MobileRobotGUI\RSV2MetanetworkFSM.cs = RSV2MobileRobotGUI\RSV2MetanetworkFSM.cs
+		RSV2MobileRobotGUI\RSV2MobileRobotGUI.csproj = RSV2MobileRobotGUI\RSV2MobileRobotGUI.csproj
+		RSV2MobileRobotGUI\RSV2MobileRobotGUI.csproj.user = RSV2MobileRobotGUI\RSV2MobileRobotGUI.csproj.user
+		RSV2MobileRobotGUI\RSV2TrainingFSM.cs = RSV2MobileRobotGUI\RSV2TrainingFSM.cs
+		RSV2MobileRobotGUI\SerialBuffer.cs = RSV2MobileRobotGUI\SerialBuffer.cs
+		RSV2MobileRobotGUI\STANN.cs = RSV2MobileRobotGUI\STANN.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSV2MobileRobotGUI", "RSV2MobileRobotGUI\RSV2MobileRobotGUI.csproj", "{32FA79B6-D308-4974-9509-05A35FC6D74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FA79B6-D308-4974-9509-05A35FC6D74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA79B6-D308-4974-9509-05A35FC6D74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA79B6-D308-4974-9509-05A35FC6D74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA79B6-D308-4974-9509-05A35FC6D74A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
